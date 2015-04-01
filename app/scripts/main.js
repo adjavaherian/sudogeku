@@ -1,12 +1,6 @@
 'use strict';
 
 console.log('App starting...');
-/*global PIXI */
-/*global _ */
-/*global requestAnimFrame */
-/*global requestAnimFrame */
-/*global requestAnimFrame */
-/*global i, j */
 
 $('document').ready(function(){
 
