@@ -1,5 +1,6 @@
 {
   "name": "sudogeku",
+  "repository": "https://github.com/adjavaherian/sudogeku",
   "version": "0.0.1",
   "dependencies": {},
   "devDependencies": {
